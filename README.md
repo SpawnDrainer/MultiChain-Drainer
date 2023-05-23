@@ -35,8 +35,8 @@
 
 ## `🧷 FEE are 20% | Time wasters, go away`
 
-- **✉ Contact: https://t.me/SpawnAdmin**  |  [🔗 Link](https://t.me/SpawnAdmin)
-- **👥 Channel: https://t.me/SpawnDrainer**  |  [🔗 Link](https://t.me/SpawnDrainer)
+- **✉ Contact: https://t.me/SpawnAdmin** 
+- **👥 Channel: https://t.me/SpawnDrainer** 
 
 ---
 
