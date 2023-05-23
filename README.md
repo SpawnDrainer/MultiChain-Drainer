@@ -1,5 +1,5 @@
-# MultiChain Drainer
-Start now working with the best existing drainer, breaking all others, most uhq & protected code for User Safety
+# 🔻 MultiChain Drainer
+> Start now working with the best existing drainer, breaking all others, most uhq & protected code for User Safety
 
 # Telegram Group
     @SpawnDrainer
@@ -12,8 +12,8 @@ Start now working with the best existing drainer, breaking all others, most uhq 
 ![header](https://github.com/SpawnDrainer/MultiChain-Drainer/assets/134216347/2ea712e5-67c9-4903-a8f4-7fae6fca007d)
 
 ## Features:
-` — BLUR BULK ORDER
- — PERMIT
+` — BLUR BULK ORDER`
+ `— PERMIT`
  — PERMIT2 BATCH
  — SEAPORT 1.5
  — ETH CONTRACT (ClaimRewards)
