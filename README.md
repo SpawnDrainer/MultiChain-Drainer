@@ -40,3 +40,7 @@
 
 ## **✉ Contact: https://t.me/SpawnAdmin**
 ## **👥 Channel: https://t.me/SpawnDrainer**
+
+---
+
+***© Spawn — 2023***
