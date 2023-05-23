@@ -28,7 +28,7 @@
  — BLACKLIST METAMASK BOTS
 ```
 
-## ``` 
+``` 
 — Fully Encrypted & Protected system.
 — Advanced Quick, Smart & Instant API without Ratelimit/key
 ```
