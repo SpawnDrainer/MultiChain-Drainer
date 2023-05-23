@@ -1,5 +1,5 @@
 # 🔻 MultiChain Drainer
-> ***Start now working with the best existing drainer, breaking all others, most uhq & protected code for User Safety***
+> *Start now working with the best existing drainer, breaking all others, most uhq & protected code for User Safety*
     
 
 # DM https://t.me/SpawnAdmin to start
